@@ -1,0 +1,32 @@
+:root {
+  --ground: #F2F3F7; --surface: #FFFFFF; --ink: #1B1D29; --ink-soft: #5B5F73;
+  --line: #D6D9E3; --accent: #C85A17; --shadow: 0 1px 2px rgba(27,29,41,.06), 0 8px 24px rgba(27,29,41,.08);
+  --display: "Avenir Next", system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+  --body: -apple-system, system-ui, "Segoe UI", Roboto, sans-serif;
+}
+@media (prefers-color-scheme: dark) {
+  :root { --ground: #13141B; --surface: #1D1F29; --ink: #EDEEF4; --ink-soft: #A2A6B8;
+    --line: #333747; --accent: #F0843F; --shadow: 0 1px 2px rgba(0,0,0,.3), 0 8px 24px rgba(0,0,0,.35); }
+}
+* { box-sizing: border-box; }
+body { margin: 0; background: var(--ground); color: var(--ink); font: 17px/1.6 var(--body); }
+main, header.site, footer.site { max-width: 42rem; margin: 0 auto; padding: 0 16px; }
+header.site { padding-top: 28px; display: flex; justify-content: space-between; align-items: baseline; gap: 16px; flex-wrap: wrap; }
+header.site a.home { font: 800 1.1rem var(--display); color: var(--ink); text-decoration: none; }
+header.site nav { display: flex; gap: 18px; font-size: .95rem; }
+a { color: var(--accent); }
+a:focus-visible { outline: 3px solid var(--accent); outline-offset: 2px; border-radius: 4px; }
+h1 { font: 800 clamp(2rem, 6vw, 2.8rem)/1.1 var(--display); margin: 40px 0 8px; text-wrap: balance; }
+h2 { font: 600 1.3rem/1.25 var(--display); margin: 40px 0 8px; text-wrap: balance; }
+p.lede { font-size: 1.15rem; color: var(--ink-soft); margin-top: 0; }
+p.meta { color: var(--ink-soft); font-size: .95rem; }
+ul { padding-left: 1.2em; }
+li { margin: 6px 0; }
+.apps { display: grid; gap: 16px; margin: 28px 0; }
+.app { display: block; background: var(--surface); border: 1px solid var(--line); border-radius: 14px;
+  padding: 20px; box-shadow: var(--shadow); color: inherit; text-decoration: none; }
+.app h2 { margin: 0 0 4px; }
+.app p { margin: 0; color: var(--ink-soft); }
+.app span { display: inline-block; margin-top: 10px; color: var(--accent); font-weight: 700; }
+.box { background: var(--surface); border: 1px solid var(--line); border-radius: 14px; padding: 4px 20px; margin: 20px 0; }
+footer.site { margin-top: 56px; padding-bottom: 40px; padding-top: 18px; border-top: 1px solid var(--line); color: var(--ink-soft); font-size: .9rem; }
