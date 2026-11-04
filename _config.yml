@@ -1,0 +1,11 @@
+title: Steibel Apps
+description: Small, careful apps for iPhone, made by one person.
+author: Joe Steibel
+url: https://steibelapps.github.io
+permalink: /blog/:year/:month/:day/:title/
+plugins:
+  - jekyll-feed
+feed:
+  path: blog/feed.xml
+exclude:
+  - README.md

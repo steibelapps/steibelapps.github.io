@@ -30,3 +30,6 @@ li { margin: 6px 0; }
 .app span { display: inline-block; margin-top: 10px; color: var(--accent); font-weight: 700; }
 .box { background: var(--surface); border: 1px solid var(--line); border-radius: 14px; padding: 4px 20px; margin: 20px 0; }
 footer.site { margin-top: 56px; padding-bottom: 40px; padding-top: 18px; border-top: 1px solid var(--line); color: var(--ink-soft); font-size: .9rem; }
+ul.posts { list-style: none; padding: 0; }
+ul.posts li { margin: 0 0 12px; }
+a.button { display: inline-block; padding: 10px 16px; border-radius: 10px; background: var(--accent, #2f6f4f); color: #fff; text-decoration: none; font-weight: 600; }

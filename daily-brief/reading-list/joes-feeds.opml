@@ -1,0 +1,113 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<opml version="2.0">
+  <head>
+    <title>Joe’s Daily Brief feeds</title>
+    <dateCreated>Sat, 26 Sep 2026 13:20:00 GMT</dateCreated>
+  </head>
+  <body>
+    <outline text="Top Stories" title="Top Stories">
+      <outline type="rss" text="NPR – News" title="NPR – News" xmlUrl="https://feeds.npr.org/1001/rss.xml" />
+      <outline type="rss" text="PBS NewsHour" title="PBS NewsHour" xmlUrl="https://www.pbs.org/newshour/feeds/rss/headlines" />
+      <outline type="rss" text="CBS News" title="CBS News" xmlUrl="https://www.cbsnews.com/latest/rss/main" />
+      <outline type="rss" text="ABC News" title="ABC News" xmlUrl="https://abcnews.go.com/abcnews/topstories" />
+      <outline type="rss" text="NBC News" title="NBC News" xmlUrl="https://feeds.nbcnews.com/nbcnews/public/news" />
+      <outline type="rss" text="Axios" title="Axios" xmlUrl="https://api.axios.com/feed/" />
+      <outline type="rss" text="The Hill" title="The Hill" xmlUrl="https://thehill.com/news/feed/" />
+      <outline type="rss" text="Politico" title="Politico" xmlUrl="https://rss.politico.com/politics-news.xml" />
+      <outline type="rss" text="NPR – Politics" title="NPR – Politics" xmlUrl="https://feeds.npr.org/1014/rss.xml" />
+      <outline type="rss" text="BBC – US &amp; Canada" title="BBC – US &amp; Canada" xmlUrl="https://feeds.bbci.co.uk/news/world/us_and_canada/rss.xml" />
+    </outline>
+    <outline text="World" title="World">
+      <outline type="rss" text="BBC – World" title="BBC – World" xmlUrl="https://feeds.bbci.co.uk/news/world/rss.xml" />
+      <outline type="rss" text="The Guardian – World" title="The Guardian – World" xmlUrl="https://www.theguardian.com/world/rss" />
+      <outline type="rss" text="NPR – World" title="NPR – World" xmlUrl="https://feeds.npr.org/1004/rss.xml" />
+      <outline type="rss" text="Al Jazeera" title="Al Jazeera" xmlUrl="https://www.aljazeera.com/xml/rss/all.xml" />
+      <outline type="rss" text="DW" title="DW" xmlUrl="https://rss.dw.com/rdf/rss-en-all" />
+    </outline>
+    <outline text="BBC News" title="BBC News">
+      <outline type="rss" text="BBC – Top Stories" title="BBC – Top Stories" xmlUrl="https://feeds.bbci.co.uk/news/rss.xml" />
+      <outline type="rss" text="BBC – UK" title="BBC – UK" xmlUrl="https://feeds.bbci.co.uk/news/uk/rss.xml" />
+      <outline type="rss" text="BBC – Business" title="BBC – Business" xmlUrl="https://feeds.bbci.co.uk/news/business/rss.xml" />
+      <outline type="rss" text="BBC – Technology" title="BBC – Technology" xmlUrl="https://feeds.bbci.co.uk/news/technology/rss.xml" />
+      <outline type="rss" text="BBC – Health" title="BBC – Health" xmlUrl="https://feeds.bbci.co.uk/news/health/rss.xml" />
+      <outline type="rss" text="BBC – In Depth" title="BBC – In Depth" xmlUrl="https://feeds.bbci.co.uk/news/bbcindepth/rss.xml" />
+      <outline type="rss" text="BBC – Verify" title="BBC – Verify" xmlUrl="https://feeds.bbci.co.uk/news/bbcverify/rss.xml" />
+      <outline type="rss" text="BBC – In Pictures" title="BBC – In Pictures" xmlUrl="https://feeds.bbci.co.uk/news/in_pictures/rss.xml" />
+      <outline type="rss" text="BBC – Asia" title="BBC – Asia" xmlUrl="https://feeds.bbci.co.uk/news/world/asia/rss.xml" />
+      <outline type="rss" text="BBC – Middle East" title="BBC – Middle East" xmlUrl="https://feeds.bbci.co.uk/news/world/middle_east/rss.xml" />
+      <outline type="rss" text="BBC – Latin America" title="BBC – Latin America" xmlUrl="https://feeds.bbci.co.uk/news/world/latin_america/rss.xml" />
+      <outline type="rss" text="BBC – Australia" title="BBC – Australia" xmlUrl="https://feeds.bbci.co.uk/news/world/australia/rss.xml" />
+    </outline>
+    <outline text="Business &amp; Tech" title="Business &amp; Tech">
+      <outline type="rss" text="The Verge" title="The Verge" xmlUrl="https://www.theverge.com/rss/index.xml" />
+      <outline type="rss" text="Ars Technica" title="Ars Technica" xmlUrl="https://feeds.arstechnica.com/arstechnica/index" />
+      <outline type="rss" text="9to5Mac" title="9to5Mac" xmlUrl="https://9to5mac.com/feed" />
+      <outline type="rss" text="MacStories" title="MacStories" xmlUrl="https://www.macstories.net/feed" />
+      <outline type="rss" text="Daring Fireball" title="Daring Fireball" xmlUrl="https://daringfireball.net/feeds/main" />
+      <outline type="rss" text="CNBC" title="CNBC" xmlUrl="https://www.cnbc.com/id/100003114/device/rss/rss.html" />
+      <outline type="rss" text="MarketWatch" title="MarketWatch" xmlUrl="https://feeds.content.dowjones.io/public/rss/mw_topstories" />
+      <outline type="rss" text="MacRumors" title="MacRumors" xmlUrl="https://feeds.macrumors.com/MacRumors-All" />
+    </outline>
+    <outline text="Science" title="Science">
+      <outline type="rss" text="ScienceDaily" title="ScienceDaily" xmlUrl="https://www.sciencedaily.com/rss/all.xml" />
+      <outline type="rss" text="Scientific American" title="Scientific American" xmlUrl="https://www.scientificamerican.com" />
+      <outline type="rss" text="New Scientist – Space" title="New Scientist – Space" xmlUrl="https://www.newscientist.com/subject/space/feed/" />
+      <outline type="rss" text="The Guardian – Space" title="The Guardian – Space" xmlUrl="https://www.theguardian.com/science/space/rss" />
+      <outline type="rss" text="PBS Nature" title="PBS Nature" xmlUrl="https://www.pbs.org/wnet/nature/blog/feed/" />
+      <outline type="rss" text="The Guardian – Wildlife" title="The Guardian – Wildlife" xmlUrl="https://www.theguardian.com/environment/wildlife/rss" />
+      <outline type="rss" text="NPR – Environment" title="NPR – Environment" xmlUrl="https://feeds.npr.org/1025/rss.xml" />
+      <outline type="rss" text="BBC – Science &amp; Environment" title="BBC – Science &amp; Environment" xmlUrl="https://feeds.bbci.co.uk/news/science_and_environment/rss.xml" />
+      <outline type="rss" text="Sky &amp; Telescope" title="Sky &amp; Telescope" xmlUrl="https://skyandtelescope.org/feed/" />
+      <outline type="rss" text="Space.com" title="Space.com" xmlUrl="https://www.space.com/feeds/all" />
+      <outline type="rss" text="EarthSky" title="EarthSky" xmlUrl="https://earthsky.org/feed/" />
+      <outline type="rss" text="Smithsonian" title="Smithsonian" xmlUrl="https://www.smithsonianmag.com/rss/latest_articles/" />
+      <outline type="rss" text="Quanta" title="Quanta" xmlUrl="https://www.quantamagazine.org/feed/" />
+      <outline type="rss" text="NPR – Science" title="NPR – Science" xmlUrl="https://feeds.npr.org/1007/rss.xml" />
+    </outline>
+    <outline text="Health" title="Health">
+      <outline type="rss" text="NPR – Health" title="NPR – Health" xmlUrl="https://feeds.npr.org/1128/rss.xml" />
+      <outline type="rss" text="STAT" title="STAT" xmlUrl="https://www.statnews.com/feed/" />
+    </outline>
+    <outline text="Sports" title="Sports">
+      <outline type="rss" text="ESPN" title="ESPN" xmlUrl="https://www.espn.com/espn/rss/news" />
+      <outline type="rss" text="BBC Sport" title="BBC Sport" xmlUrl="https://feeds.bbci.co.uk/sport/rss.xml" />
+      <outline type="rss" text="BBC Sport – Cricket" title="BBC Sport – Cricket" xmlUrl="https://feeds.bbci.co.uk/sport/cricket/rss.xml" />
+      <outline type="rss" text="BBC Sport – Tennis" title="BBC Sport – Tennis" xmlUrl="https://feeds.bbci.co.uk/sport/tennis/rss.xml" />
+      <outline type="rss" text="BBC Sport – Golf" title="BBC Sport – Golf" xmlUrl="https://feeds.bbci.co.uk/sport/golf/rss.xml" />
+      <outline type="rss" text="BBC Sport – Rugby Union" title="BBC Sport – Rugby Union" xmlUrl="https://feeds.bbci.co.uk/sport/rugby-union/rss.xml" />
+      <outline type="rss" text="BBC Sport – Rugby League" title="BBC Sport – Rugby League" xmlUrl="https://feeds.bbci.co.uk/sport/rugby-league/rss.xml" />
+      <outline type="rss" text="BBC Sport – Athletics" title="BBC Sport – Athletics" xmlUrl="https://feeds.bbci.co.uk/sport/athletics/rss.xml" />
+      <outline type="rss" text="BBC Sport – Motorsport" title="BBC Sport – Motorsport" xmlUrl="https://feeds.bbci.co.uk/sport/motorsport/rss.xml" />
+      <outline type="rss" text="CBS Sports" title="CBS Sports" xmlUrl="https://www.cbssports.com/rss/headlines/" />
+    </outline>
+    <outline text="Soccer" title="Soccer">
+      <outline type="rss" text="BBC Sport – Premier League" title="BBC Sport – Premier League" xmlUrl="https://feeds.bbci.co.uk/sport/football/premier-league/rss.xml" />
+      <outline type="rss" text="BBC Sport – Football" title="BBC Sport – Football" xmlUrl="https://feeds.bbci.co.uk/sport/football/rss.xml" />
+      <outline type="rss" text="The Guardian – Premier League" title="The Guardian – Premier League" xmlUrl="https://www.theguardian.com/football/premierleague/rss" />
+      <outline type="rss" text="ESPN – Soccer" title="ESPN – Soccer" xmlUrl="https://www.espn.com/espn/rss/soccer/news" />
+    </outline>
+    <outline text="Entertainment" title="Entertainment">
+      <outline type="rss" text="Hackaday" title="Hackaday" xmlUrl="https://hackaday.com/blog/feed/" />
+      <outline type="rss" text="How-To Geek" title="How-To Geek" xmlUrl="https://www.howtogeek.com/feed/" />
+      <outline type="rss" text="Book Riot" title="Book Riot" xmlUrl="https://bookriot.com/feed/" />
+      <outline type="rss" text="PetaPixel" title="PetaPixel" xmlUrl="https://petapixel.com/feed/" />
+      <outline type="rss" text="Variety" title="Variety" xmlUrl="https://variety.com/feed/" />
+      <outline type="rss" text="The Hollywood Reporter" title="The Hollywood Reporter" xmlUrl="https://www.hollywoodreporter.com/feed/" />
+      <outline type="rss" text="NPR – Music" title="NPR – Music" xmlUrl="https://feeds.npr.org/1039/rss.xml" />
+    </outline>
+    <outline text="Food" title="Food">
+      <outline type="rss" text="The Kitchn" title="The Kitchn" xmlUrl="https://www.thekitchn.com/main.rss" />
+      <outline type="rss" text="Smitten Kitchen" title="Smitten Kitchen" xmlUrl="https://feeds.feedburner.com/smittenkitchen" />
+      <outline type="rss" text="Budget Bytes" title="Budget Bytes" xmlUrl="https://www.budgetbytes.com" />
+      <outline type="rss" text="Serious Eats" title="Serious Eats" xmlUrl="https://www.seriouseats.com" />
+      <outline type="rss" text="Love and Lemons" title="Love and Lemons" xmlUrl="https://www.loveandlemons.com/feed/" />
+      <outline type="rss" text="David Lebovitz" title="David Lebovitz" xmlUrl="https://www.davidlebovitz.com/feed/" />
+      <outline type="rss" text="Bon Appétit" title="Bon Appétit" xmlUrl="https://www.bonappetit.com/feed/rss" />
+    </outline>
+    <outline text="Pennsylvania" title="Pennsylvania">
+      <outline type="rss" text="PennLive" title="PennLive" xmlUrl="https://www.pennlive.com/arc/outboundfeeds/rss/?outputType=xml" />
+      <outline type="rss" text="WITF" title="WITF" xmlUrl="https://www.witf.org/feed/" />
+      <outline type="rss" text="Pennsylvania Capital-Star" title="Pennsylvania Capital-Star" xmlUrl="https://penncapital-star.com/feed/" />
+    </outline>
+  </body>
+</opml>
