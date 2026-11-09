@@ -3,9 +3,20 @@ description: Small, careful apps for iPhone, made by one person.
 author: Joe Steibel
 url: https://steibelapps.github.io
 permalink: /blog/:year/:month/:day/:title/
+timezone: America/New_York
+# Posts dated in the future stay hidden until the site is rebuilt after that moment.
+# The Sunday workflow rebuilds at 10 AM Eastern, so the next post in line appears then.
+future: false
 plugins:
   - jekyll-feed
 feed:
   path: blog/feed.xml
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: post
 exclude:
   - README.md
+  - tools

@@ -1,0 +1,23 @@
+# Publishes the next blog post in line every Sunday at 10 AM Eastern.
+# Posts in _posts dated in the future stay hidden (future: false in _config.yml); this
+# rebuilds the site so the one dated this Sunday at 10:00 appears. It runs at 14:00 and
+# 15:00 UTC so 10 AM is covered in both daylight and standard time; the post's own date
+# keeps it hidden until 10 AM either way.
+name: Sunday post
+on:
+  schedule:
+    - cron: "0 14 * * 0"
+    - cron: "0 15 * * 0"
+  workflow_dispatch:
+permissions:
+  pages: write
+jobs:
+  rebuild:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Rebuild the site
+        run: |
+          curl -fsS -X POST \
+            -H "Authorization: Bearer ${{ secrets.GITHUB_TOKEN }}" \
+            -H "Accept: application/vnd.github+json" \
+            https://api.github.com/repos/${{ github.repository }}/pages/builds
