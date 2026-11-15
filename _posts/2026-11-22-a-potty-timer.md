@@ -8,7 +8,7 @@ categories: [building-with-ai]
 ---
 Most mornings start with a walk: two mini goldendoodles, a leash in one hand and my phone in the other. Somewhere on that walk the dogs find a squirrel, or a rabbit, or a smell that can't wait, and then there's pulling and barking and a lot of me saying "leave it."
 
-That walk is also when I try to set up my day. I wanted to know what I had going on, what my wife had going on and what the kids had going on, for today and the whole week ahead. My wife works from home and handles most of the kids' appointments, and for a long time I didn't pay much attention, because I'm always working and driving around. I wanted to be more involved, a better husband and a more aware dad. But that meant checking three apps, Weather, Calendar and Reminders, one-handed, while two dogs tried to chase something.
+That walk is also when I try to set up my day. I wanted to know what I had going on, what my wife had going on and what the kids had going on, for today and the whole week ahead. My wife works from home and handles most of the kids' appointments, and for a long time I didn't pay much attention. I wanted to be more involved, a better husband and a more aware dad. But that meant checking three apps, Weather, Calendar and Reminders, one-handed, while two dogs tried to chase something.
 
 **How I got here**
 
