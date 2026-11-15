@@ -1,5 +1,5 @@
 ---
-date: 2026-11-22 10:00:00
+date: 2026-12-06 10:00:00
 title: "Two doodles, three apps, one hand"
 description: "Two leashes, three apps and one free hand: how a potty-training timer for my son turned into the first rough version of Daily Brief."
 image: /blog/images/2026-11-22-a-potty-timer.jpg
@@ -12,13 +12,11 @@ That walk is also when I try to set up my day. I wanted to know what I had going
 
 **How I got here**
 
-AI first earned its keep when we bought our first house with a yard. I had no idea what to do with it: crabgrass, weeds, bare patches. I'd take pictures and send them to ChatGPT, and it gave me a step-by-step plan, not just what to do but when. Those steps went on my calendar and into my reminders.
-
-What drove me away from ChatGPT was repeating myself, reminding it of things we'd talked about the day before. So I went looking and found Claude, and it was night and day. (Not sponsored, by the way. I pay for Claude like everyone else.) I brought everything over, and found Claude could connect to my calendar and reminders.
+Once we moved in, AI earned its keep in the yard. I had no idea what to do with it: crabgrass, weeds, bare patches. I'd take pictures and ask for help, and I got a step-by-step plan, not just what to do but when. Those steps went on my calendar and into my reminders. After I switched to Claude, I found it could connect to my calendar and reminders directly.
 
 **Three tries at a daily brief**
 
-My first try was Apple Shortcuts, pulling the weather, my calendar and my reminders into one place. It worked one day and broke the next.
+My first try, as I wrote before, was Apple Shortcuts. It worked one day and broke the next.
 
 My second try was asking Claude to run my "daily brief" each morning. I told it where I live and what we're into, like concerts, kids' outings, the library, the movie theater and coffee shops, and it searched for local events, checked my calendar and reminders, and pulled the weather. It was ten times better than Shortcuts. But some mornings it would pull the calendar and some mornings it wouldn't, and all those searches ran me into my usage limits fast.
 
