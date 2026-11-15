@@ -18,7 +18,7 @@ What drove me away from ChatGPT was repeating myself, reminding it of things we'
 
 **Three tries at a daily brief**
 
-My first try was Apple Shortcuts, pulling the weather, my calendar and my reminders into one place. It would work one day and break the next.
+My first try was Apple Shortcuts, pulling the weather, my calendar and my reminders into one place. It worked one day and broke the next.
 
 My second try was asking Claude to run my "daily brief" each morning. I told it where I live and what we're into, like concerts, kids' outings, the library, the movie theater and coffee shops, and it searched for local events, checked my calendar and reminders, and pulled the weather. It was ten times better than Shortcuts. But some mornings it would pull the calendar and some mornings it wouldn't, and all those searches ran me into my usage limits fast.
 
