@@ -5,22 +5,35 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Blog · Steibel Apps</title>
-<meta name="description" content="Notes from building Daily Brief: what is new, how I use it, and what I notice on morning walks.">
+<title>Building with AI · Steibel Apps</title>
+<meta name="description" content="A dad with a day job and an AI, building iPhone apps together from the first rough version to the App Store.">
+<meta property="og:title" content="Building with AI">
+<meta property="og:description" content="A dad with a day job and an AI, building iPhone apps together from the first rough version to the App Store.">
+{% assign latest = site.posts.first %}{% if latest.image %}<meta property="og:image" content="{{ latest.image | absolute_url }}">{% endif %}
 <link rel="stylesheet" href="/style.css">
-<link rel="alternate" type="application/atom+xml" title="Steibel Apps blog" href="/blog/feed.xml">
+<link rel="alternate" type="application/atom+xml" title="Building with AI" href="/blog/feed.xml">
 </head>
 <body>
 <header class="site"><a class="home" href="/">Steibel Apps</a><nav><a href="/blog/">Blog</a><a href="/daily-brief/">Daily Brief</a><a href="/daily-brief/reading-list/">Reading list</a></nav></header>
 <main>
-<h1>Blog</h1>
-<p class="lede">Notes from building Daily Brief: what&rsquo;s new, how I use it, and what I notice on morning walks.</p>
+<section class="blog-hero">
+<p class="kicker">The blog</p>
+<h1>Building with AI</h1>
+<p class="lede">I&rsquo;m Joe, a dad with a full-time job and about fifteen quiet minutes before everyone wakes up. Claude is the AI I build with. This is our journey from start to finish: making Daily Brief and Periodic together, the wins, the &ldquo;oh no&rdquo; moments and what we learned. Each post is my side of the story, followed by a short note from Claude on the same stretch.</p>
+<p class="meta">New posts on Sundays · <a href="/blog/feed.xml">Follow in a feed reader</a> (Daily Brief reads it too)</p>
+</section>
 {% if site.posts.size == 0 %}<p>The first post is on its way.</p>{% endif %}
-<ul class="posts">
-{% for post in site.posts %}<li><a href="{{ post.url }}">{{ post.title }}</a> <span class="meta">{{ post.date | date: "%B %-d, %Y" }}</span></li>
-{% endfor %}</ul>
-<p class="meta"><a href="/blog/feed.xml">Follow in a feed reader</a> (Daily Brief can read it too).</p>
-
+<div class="post-cards">
+{% for post in site.posts %}<a class="post-card" href="{{ post.url }}">
+{% if post.image %}<img src="{{ post.image }}" alt="{{ post.image_alt | default: '' }}" loading="lazy" width="1600" height="900">{% endif %}
+<div class="post-card-text">
+<p class="meta"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%A, %B %-d, %Y · %-I:%M %p" }}</time></p>
+<h2>{{ post.title }}</h2>
+<p>{% if post.description %}{{ post.description }}{% else %}{{ post.excerpt | strip_html | strip_newlines | truncate: 170 }}{% endif %}</p>
+<span>Read the post</span>
+</div>
+</a>
+{% endfor %}</div>
 </main>
 <footer class="site">Steibel Apps · <a href="mailto:steibelapps@gmail.com">steibelapps@gmail.com</a></footer>
 </body>

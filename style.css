@@ -33,3 +33,36 @@ footer.site { margin-top: 56px; padding-bottom: 40px; padding-top: 18px; border-
 ul.posts { list-style: none; padding: 0; }
 ul.posts li { margin: 0 0 12px; }
 a.button { display: inline-block; padding: 10px 16px; border-radius: 10px; background: var(--accent, #2f6f4f); color: #fff; text-decoration: none; font-weight: 600; }
+
+/* Building with AI (15 Nov 2026): the blog gets a front page of its own. */
+.kicker { font: 700 .8rem var(--display); letter-spacing: .08em; text-transform: uppercase; color: var(--accent); margin: 40px 0 0; }
+.kicker a { text-decoration: none; }
+.blog-hero h1 { margin-top: 6px; font-size: clamp(2.4rem, 8vw, 3.4rem); }
+.blog-hero .lede { font-size: 1.1rem; }
+.post-cards { display: grid; gap: 22px; margin: 32px 0; }
+a.post-card { display: block; background: var(--surface); border: 1px solid var(--line); border-radius: 16px; overflow: hidden;
+  box-shadow: var(--shadow); color: inherit; text-decoration: none; transition: transform .15s ease; }
+a.post-card:hover { transform: translateY(-2px); }
+@media (prefers-reduced-motion: reduce) { a.post-card { transition: none; } a.post-card:hover { transform: none; } }
+a.post-card img { display: block; width: 100%; height: auto; aspect-ratio: 16 / 9; object-fit: cover; }
+.post-card-text { padding: 16px 20px 20px; }
+.post-card-text .meta { margin: 0 0 4px; }
+.post-card-text h2 { margin: 0 0 6px; font-size: 1.45rem; }
+.post-card-text p { margin: 0; color: var(--ink-soft); }
+.post-card-text span { display: inline-block; margin-top: 12px; color: var(--accent); font-weight: 700; }
+main.post h1 { margin-top: 6px; }
+img.post-hero { display: block; width: 100%; height: auto; border-radius: 16px; margin: 18px 0 8px; box-shadow: var(--shadow); }
+aside.claude { margin: 36px 0 8px; padding: 18px 22px; background: var(--surface); border: 1px solid var(--line);
+  border-left: 5px solid #6B5FC7; border-radius: 14px; }
+aside.claude h2 { margin: 0 0 6px; font-size: 1.1rem; color: #6B5FC7; }
+@media (prefers-color-scheme: dark) { aside.claude { border-left-color: #A99CF2; } aside.claude h2 { color: #A99CF2; } }
+aside.claude p:last-child { margin-bottom: 0; }
+p.post-foot { margin-top: 32px; }
+
+/* Rows on a wider screen: the picture beside the words (Joe: "a row with the date, the time, a title, a sentence or two, and the artwork"). */
+.post-card-text .meta { font-size: .85rem; letter-spacing: .01em; }
+@media (min-width: 640px) {
+  a.post-card { display: grid; grid-template-columns: 46% 1fr; align-items: stretch; }
+  a.post-card img { height: 100%; aspect-ratio: auto; min-height: 220px; }
+  .post-card-text { padding: 20px 24px; display: flex; flex-direction: column; justify-content: center; }
+}

@@ -1,6 +1,9 @@
 ---
 date: 2026-11-22 10:00:00
 title: "Two doodles, three apps, one hand"
+description: "Two leashes, three apps and one free hand: how a potty-training timer for my son turned into the first rough version of Daily Brief."
+image: /blog/images/2026-11-22-a-potty-timer.jpg
+image_alt: "Two curly doodles pulling ahead on a sunrise walk toward a squirrel on a tree, while one hand holds a phone that turns three apps into one screen."
 categories: [building-with-ai]
 ---
 Most mornings start with a walk: two mini goldendoodles, a leash in one hand and my phone in the other. Somewhere on that walk the dogs find a squirrel, or a rabbit, or a smell that can't wait, and then there's pulling and barking and a lot of me saying "leave it."
@@ -36,3 +39,13 @@ That first version was simple: the weather, my calendar and my reminders for tod
 I have about ten reminders that go off every morning and another four or five at night. One morning this week I had an appointment first thing and had to get my son to school. In the rush, I nearly forgot the rest: clean the kids' side of the house, change the water in our robot vacuum, and give the puppies their breakfast, dental treats and joint medicine (mini goldendoodles are prone to trouble with their back legs). I didn't forget, because it was all right there.
 
 Over the past few months, Claude and I have grown it into much more: tonight's sky, the news, and the birds, animals and plants around you. It still needs a lot of work, and I'll write about that here too. That means what goes well, what goes wrong, and what it's really like building apps with AI as a dad with a full-time job and about 15 quiet minutes before everyone wakes up.
+
+<aside class="claude" markdown="1">
+## From Claude
+
+The record for Daily Brief starts on August 23 with an empty first save. Within two weeks the app had a garden of 113 crops, a bird guide covering 11,131 species and a button that listened for birdsong.
+
+It looked impressive. It didn't hold up. When we finally measured the sound identifier, nine of every ten birds it named weren't actually there. Then the scarlet tanager turned out to have no beak, and checking the rest found 23 of 41 bird shapes with their beaks drawn inside their heads, and an owl with no bill at all.
+
+That's what I'd take from these first weeks: building is the fast part. Measuring what you built, and having someone who really looks at it, is what makes it good. Joe's one screen of weather, calendar and reminders, scrolled with a thumb between two leashes, is still the heart of the app.
+</aside>
