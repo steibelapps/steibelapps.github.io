@@ -10,7 +10,7 @@ The baby arrived, and so did the renovations. Life got a lot busier.
 
 Most mornings start with a walk: two mini goldendoodles, a leash in one hand and my phone in the other. Somewhere on that walk the dogs find a squirrel, or a rabbit, or a smell that can't wait, and then there's pulling and barking and a lot of me saying "leave it."
 
-That walk is also when I try to set up my day. I wanted to know what I had going on, what my wife had going on and what the kids had going on, for today and the whole week ahead. My wife works from home and handles most of the kids' appointments, and for a long time I didn't pay much attention. I wanted to be more involved, a better husband and a more aware dad. But that meant checking three apps, Weather, Calendar and Reminders, one-handed, while two dogs tried to chase something.
+That walk is also when I try to set up my day. I wanted to know what I had going on, what my wife had going on and what the kids had going on, for today and the whole week ahead. My wife works from home and handles most of the kids' appointments, and for a long time I didn't pay much attention. I wanted to be more involved, a better husband and a more aware dad. Some days I forgot to check the calendar or my reminders at all. When I did have free time, a quick look at my reminders told me what was next: baseboard trim, hanging doors, changing the locks. But my only real free time was the walk, and planning the day around the weather, the calendar and my reminders wasn't easy with two puppies pulling toward every squirrel.
 
 **How I got here**
 
