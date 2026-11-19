@@ -1,51 +1,63 @@
 ---
 date: 2026-12-06 10:00:00
 title: "Two doodles, three apps, one hand"
-description: "Two leashes, three apps and one free hand: how a potty-training timer for my son turned into the first rough version of Daily Brief."
+description: "Renovations, a yard that needed everything, 15 minutes at a time, and a potty timer: how Claude ended up in every part of my life, and how Daily Brief began."
 image: /blog/images/2026-11-22-a-potty-timer.jpg
 image_alt: "Two curly doodles pulling ahead on a sunrise walk toward a squirrel on a tree, while one hand holds a phone that turns three apps into one screen."
 categories: [building-with-ai]
 ---
 The baby arrived, and so did the renovations. Life got a lot busier.
 
-Most mornings start with a walk: two mini goldendoodles, a leash in one hand and my phone in the other. Somewhere on that walk the dogs find a squirrel, or a rabbit, or a smell that can't wait, and then there's pulling and barking and a lot of me saying "leave it."
+**The upstairs**
 
-That walk is also when I try to set up my day. I wanted to know what I had going on, what my wife had going on and what the kids had going on, for today and the whole week ahead. My wife works from home and handles most of the kids' appointments, and for a long time I didn't pay much attention. I wanted to be more involved, a better husband and a more aware dad. Some days I forgot to check the calendar or my reminders at all. When I did have free time, a quick look at my reminders told me what was next: baseboard trim, hanging doors, changing the locks. But my only real free time was the walk, and planning the day around the weather, the calendar and my reminders wasn't easy with two puppies pulling toward every squirrel.
+We bought the house in October, and the upstairs needed work right away. Every wall needed repair. That meant pulling off the baseboards, pulling the nails, cleaning, prepping and painting them, taking off the light switch covers, patching the drywall, cleaning the walls and painting them.
 
-**How I got here**
+I'd never done most of it, so I asked Claude. It told us what kind of paint we needed and walked us through every step, in order: take everything off the walls, prep them, then the drywall repair, with a different fix for the bigger holes. Every step went into our reminders. When I moved on to changing the locks and hanging doors, it found me how-to videos, told me what hinges to buy, and showed me how to fix a door that sagged and rubbed the frame.
 
-Once we moved in, AI earned its keep in the yard. I had no idea what to do with it: crabgrass, weeds, bare patches. I'd take pictures and ask for help, and I got a step-by-step plan, not just what to do but when. Those steps went on my calendar and into my reminders. After I switched to Claude, I found it could connect to my calendar and reminders directly.
+It helped with the money side too. I fed it our bank and credit card statements, and it sorted every transaction into one document that showed where everything went. The monthly budget review that used to take me an hour now takes about five minutes.
 
-**Three tries at a daily brief**
+**The yard**
 
-My first try, as I wrote before, was Apple Shortcuts. It worked one day and broke the next.
+Winter came, the baby came, and the upstairs kept us busy, so the first time we really walked the yard was the next spring. It was pretty terrible: crabgrass, weeds, bugs, bare spots, landscaping rocks scattered everywhere and a few invasive trees. It wasn't much of a yard.
 
-My second try was asking Claude to run my "daily brief" each morning. I told it where I live and what we're into, like concerts, kids' outings, the library, the movie theater and coffee shops, and it searched for local events, checked my calendar and reminders, and pulled the weather. It was ten times better than Shortcuts. But some mornings it would pull the calendar and some mornings it wouldn't, and all those searches ran me into my usage limits fast.
+I couldn't fix it all at once. I had 15 to 30 minutes at a time, and the basement needed the same 15 to 30 minutes. (We could live upstairs while we worked down there, and we're still at it.)
 
-The third try started with a timer.
+So I asked Claude for a plan. It weighed how long each job would take and how noisy it was, and put each one on the day it made sense. For the lawn, it told me when to spread weed killer, fertilizer and insect killer, when to dethatch, when to overseed and when to cut down the trees. Each reminder had a title, the steps under it so I knew exactly what to do, and the why in the notes. That last part mattered. I wasn't just taking its word for things; I could check the reasoning.
+
+That's how Claude worked its way into pretty much every part of my life. It took the repetitive jobs, and the ones that meant looking things up, off my plate, so I didn't have to think about them.
+
+**The walk**
+
+My mornings go like this: get up, walk the puppies, get the house ready, get my son ready for school, and get myself ready for work. Before the rest of the family wakes, I usually have 15 to 30 minutes to chip away at a project, inside or outside.
+
+The walk is where I figure out the day: two mini goldendoodles, a leash in one hand and my phone in the other. Somewhere along the way the dogs find a squirrel, or a rabbit, or a smell that can't wait, and then there's pulling and barking and a lot of me saying "leave it."
+
+On that walk I wanted to know what I had going on, today and over the next week, and what my wife and the kids had going on too. My wife works from home and handles most of the kids' appointments, and for a long time I didn't pay much attention. I wanted to be more involved, a better husband and a more aware dad. I needed the weather too: if a reminder said to fertilize today, I wanted to know rain was coming. If it wasn't, I'd move the job to another day and spend my 15 minutes in the basement instead. But checking the calendar, the reminders and the weather wasn't easy with two puppies pulling toward every squirrel.
+
+**Two more tries**
+
+That's what made me want to try a daily brief again. First, I asked Claude to run my "daily brief" each morning. I told it where I live and what we're into, like concerts, kids' outings, the library, the movie theater and coffee shops, and it searched for local events, checked my calendar and reminders, and pulled the weather. It was ten times better than Shortcuts. But some mornings it would pull the calendar and some mornings it wouldn't, and all those searches ran me into my usage limits fast.
+
+Then I spent a weekend with Claude building it in Shortcuts. We got much further than I ever had on my own, but in the end it crashed and burned, and I let it go for a while.
 
 **The potty timer**
 
-My son was potty training. He sat on the potty every 30 minutes at first, then every 45, then every hour, for about a minute each time. Sometimes he wanted a book. Sometimes he wanted to watch the countdown on our phones. The built-in timer is black, and he wanted it blue, or red, or yellow, whatever his favorite color was that day. We couldn't find a simple free timer that changed colors, so on the spur of the moment I asked Claude to make one.
+Around then, my wife decided it was time for our son to start potty training. He sat on the potty every 30 minutes at first, then every 45, then every hour, for about a minute each time. Sometimes he wanted a book. Sometimes he wanted to watch the countdown on our phones. The built-in timer is black, and he wanted it blue, or red, or yellow, whatever his favorite color was that day. We couldn't find a simple free timer that changed colors, so I asked Claude to make one.
 
-It made a little circle countdown with eight colored squares underneath, and every tap turned the screen that color. He loved it. When it was time to sit, he knew he got to tap the colors while the timer ran. It seemed like a fun first app to learn to code on.
+It made a little circle countdown with eight colored squares underneath, and every tap turned the screen that color. He loved it. When it was time to sit, he knew he got to tap the colors while the timer ran.
 
-Then I asked the bigger question: could Claude just build my daily brief as a real app? It said it could walk me through it. I started a project, described what I wanted, and Claude built a very rough first version of Daily Brief. (The timer app is still on my list. I want to get this one into the App Store first.)
+**On the swing**
 
-**One screen**
+Not long after, I was at the playground pushing my son on a swing, both of us daydreaming, and I had a thought: maybe Claude could teach me to program, and I could build the daily brief as a real iPhone app. I asked, and it said absolutely. We agreed to start with the timer, since it was a nice, easy first project, and work our way toward the bigger app.
 
-That first version was simple: the weather, my calendar and my reminders for today and the next six days, on one screen I could scroll with my thumb while holding two leashes.
+Then I started asking harder questions. One was how long all this would take. I didn't have years. I needed it now. That's when I found out Claude could do the programming itself, and I just had to tell it what I wanted.
 
-I have about ten reminders that go off every morning and another four or five at night. One morning this week I had an appointment first thing and had to get my son to school. In the rush, I nearly forgot the rest: clean the kids' side of the house, change the water in our robot vacuum, and give the puppies their breakfast, dental treats and joint medicine (mini goldendoodles are prone to trouble with their back legs). I didn't forget, because it was all right there.
+So that's how Daily Brief got its start. Through all of this, our daughter kept us up most nights, and a lot of the early setup happened while I was up with her. Looking back, I was probably half delirious.
 
-Over the past few months, Claude and I have grown it into much more: tonight's sky, the news, and the birds, animals and plants around you. It still needs a lot of work, and I'll write about that here too. That means what goes well, what goes wrong, and what it's really like building apps with AI as a dad with a full-time job and about 15 quiet minutes before everyone wakes up.
+Next time: actually building the app.
 
 <aside class="claude" markdown="1">
 ## From Claude
 
-The record for Daily Brief starts on August 23 with an empty first save. Within two weeks the app had a garden of 113 crops, a bird guide covering 11,131 species and a button that listened for birdsong.
-
-It looked impressive. It didn't hold up. When we finally measured the sound identifier, nine of every ten birds it named weren't actually there. Then the scarlet tanager turned out to have no beak, and checking the rest found 23 of 41 bird shapes with their beaks drawn inside their heads, and an owl with no bill at all.
-
-That's what I'd take from these first weeks: building is the fast part. Measuring what you built, and having someone who really looks at it, is what makes it good. Joe's one screen of weather, calendar and reminders, scrolled with a thumb between two leashes, is still the heart of the app.
+Asking for the why in every reminder is a habit worth copying. A step on its own asks you to trust it. A step with its reason lets you check it, and lets you decide for yourself when the weather or the week says otherwise. Joe's version of that check, every morning, was a phone in one hand and a leash in the other, and making that easier is where the next post begins.
 </aside>
