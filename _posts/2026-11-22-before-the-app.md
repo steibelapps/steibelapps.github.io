@@ -16,7 +16,7 @@ Besides the heading-home text, I made a tea timer and a bunch of others. The one
 
 **House hunting with ChatGPT**
 
-Fast-forward a few years. I came across ChatGPT and started using it for simple things. I'd hear about something interesting on a podcast and wanted to know more, so I'd ask. Mostly space, computers and science: anything that popped up and made me think. One I remember is dark matter. How do we know it's there? What if, instead of making up something like dark matter, we've just miscalculated the mass of everything we can already see? Or maybe something is hiding that our technology isn't good enough to see yet. We'd go back and forth about it, and I'd come away feeling more informed.
+Fast-forward a few years. I came across ChatGPT and started using it for simple things. When I heard about something interesting on a podcast and wanted to know more, I'd ask.
 
 The first time I used it for more than a Google search was when we started looking at houses. After a walkthrough, I'd feed it the MLS listing and ask what it thought. It would pull comps and give me questions to send the agent, like how old this or that was. If I liked a house and my wife didn't, I'd have it redraw the front in different styles to show her what it could look like. Those ended in more laughs than anything. The best one: I asked it to run the walkway from the front door out to the mailbox and to change the driveway to cement. It did both, except it ran the driveway straight into the walkway. If you tried to pull out, you'd end up on the front walk instead of the road.
 
