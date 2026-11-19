@@ -8,7 +8,7 @@ categories: [building-with-ai]
 ---
 The baby arrived, and so did the renovations. Life got a lot busier.
 
-**The upstairs**
+**The house**
 
 We bought the house in October, and the upstairs needed work right away. Every wall needed repair. That meant pulling off the baseboards, pulling the nails, cleaning, prepping and painting them, taking off the light switch covers, patching the drywall, cleaning the walls and painting them.
 
