@@ -46,9 +46,9 @@ Around this time, we decided to potty train our son. We read the books, asked Cl
 
 **On the swing**
 
-Not long after, I was at the playground pushing my son on a swing, both of us daydreaming, and I had a thought: maybe Claude could teach me to program, and I could build the daily brief as a real iPhone app. I asked, and it said absolutely. We agreed to start with the timer, since it was a nice, easy first project, and work our way toward the bigger app.
+Not long after, I was at the playground pushing my son on a swing, both of us daydreaming, and I had a thought: maybe Claude could teach me to program, and I could build the daily brief as a real iPhone app. I asked, and it said absolutely. We brainstormed and put together a training plan, starting with the timer as a nice, easy first project.
 
-Then I started asking harder questions. One was how long all this would take. I didn't have years. I needed it now. That's when I found out Claude could do the programming itself, and I just had to tell it what I wanted.
+Soon I realized this wasn't going to be an easy task, and it was going to take much longer than I wanted. So I started asking other questions. How could we do this faster? Were there shortcuts? Eventually we came across Cowork, where Claude does the work itself. We had been set to build the timer first, but once I found out Claude could do the programming and let me be the conductor, I said, let's just build the daily brief app and see what happens.
 
 So that's how Daily Brief got its start. Through all of this, our daughter kept us up most nights, and a lot of the early setup happened while I was up with her. Looking back, I was probably half delirious.
 
