@@ -24,7 +24,7 @@ Eventually we found a beautiful house and moved in. My wife was very pregnant, t
 
 **Shopping around**
 
-That's also when I started having doubts. More than once, it told me to buy something that didn't work with my setup. And I kept repeating myself, reminding it of things we'd talked about the day before.
+That's also when I started having doubts. More than once, it told me to buy something that didn't work with my setup, like a 20-amp battery backup whose plug wouldn't even fit a normal wall outlet. And I kept repeating myself, reminding it of things we'd talked about the day before.
 
 So I started shopping around. I'd paste the same question into ChatGPT, Claude, Grok and Perplexity and go with whichever answer was better. That's how I found Claude, and it was night and day. (Not sponsored, by the way. I pay for Claude like everyone else.) I switched everything over and never looked back.
 
