@@ -42,9 +42,7 @@ Then I spent a weekend with Claude building it in Shortcuts. We got much further
 
 **The potty timer**
 
-Around then, my wife decided it was time for our son to start potty training. He sat on the potty every 30 minutes at first, then every 45, then every hour, for about a minute each time. Sometimes he wanted a book. Sometimes he wanted to watch the countdown on our phones. The built-in timer is black, and he wanted it blue, or red, or yellow, whatever his favorite color was that day. We couldn't find a simple free timer that changed colors, so I asked Claude to make one.
-
-It made a little circle countdown with eight colored squares underneath, and every tap turned the screen that color. He loved it. When it was time to sit, he knew he got to tap the colors while the timer ran.
+Around this time, we decided to potty train our son. We read the books, asked Claude our questions, and felt ready to give it a shot. Each time he sat on the potty, we set a one-minute timer. He didn't always have to go, but he had to sit for at least a minute, and most of the time he liked watching the countdown. Then one day he decided he wanted the timer in different colors. I searched the App Store and couldn't find anything like that, at least nothing free, so I asked Claude to help me make one: a countdown whose color he could change by tapping buttons on my phone. It did, and it made potty training that much easier.
 
 **On the swing**
 
