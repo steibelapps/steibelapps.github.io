@@ -10,7 +10,7 @@ Years ago, I built a shortcut that texted my wife when I was heading home from w
 
 **Scratching an itch**
 
-I got into Apple Shortcuts pretty much as soon as Apple put it on the iPhone, in the fall of 2018. I'd taken a few programming courses in school, so I had a very rudimentary idea of how computers and software work. Shortcuts wasn't breaking new ground, but it scratched an itch I'd had for a long time. Building little shortcuts made me feel like a programmer of sorts. Not really. Maybe a little.
+I got into Apple Shortcuts pretty much as soon as Apple put it on the iPhone, in the fall of 2018. I had taken a few computer and programming courses in school, so I had a very rudimentary idea of how computers and software work. Shortcuts wasn't breaking new ground, but it scratched an itch I'd had for a long time. Building little shortcuts made me feel like a programmer of sorts. Not really. Maybe a little.
 
 Besides the heading-home text, I made a tea timer and a bunch of others. The one I never figured out was a morning brief. Some days it worked. Other days it fell apart, only to work again the next day.
 
