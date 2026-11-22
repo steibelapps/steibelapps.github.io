@@ -1,5 +1,5 @@
 ---
-date: 2026-11-22 10:00:00
+date: 2026-11-22 10:00:00 -0500
 title: "Before there was an app"
 description: "A morning brief I could never get Shortcuts to build, house hunting with ChatGPT, and how I ended up with Claude."
 image: /blog/images/2026-11-22-before-the-app.jpg

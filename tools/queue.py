@@ -36,12 +36,23 @@ def next_free_sunday(app="daily-brief"):
     while d in taken or (d >= START and app_of_week(d) != app): d += dt.timedelta(days=7)
     return d
 
+def eastern_offset(day):
+    """US Eastern on that Sunday: daylight time from the second Sunday in March
+    to the first Sunday in November."""
+    def sunday(month, n):
+        d = dt.date(day.year, month, 1)
+        d += dt.timedelta(days=(6 - d.weekday()) % 7)
+        return d + dt.timedelta(weeks=n - 1)
+    return "-0400" if sunday(3, 2) <= day < sunday(11, 1) else "-0500"
+
 def add(path):
     text = open(path).read()
     text = re.sub(r"<!--.*?-->\s*", "", text, flags=re.S)            # drop notes to Joe
     m = re.search(r"^app:\s*(\S+)", text, re.M)
     day = next_free_sunday(m.group(1) if m else "daily-brief")
-    fm = f"date: {day.isoformat()} 10:00:00"   # Eastern time, from timezone in _config.yml
+    # With its offset (22 Nov 2026): a bare "10:00:00" was read as UTC and the
+    # blog showed "5:00 AM". -0500 in winter, -0400 in summer.
+    fm = f"date: {day.isoformat()} 10:00:00 {eastern_offset(day)}"
     text = re.sub(r"^---\n", "---\n" + fm + "\n", text, count=1)
     slug = re.sub(r"^building-with-ai-\d+-", "", os.path.basename(path))
     dest = os.path.join(POSTS, f"{day.isoformat()}-{slug}")

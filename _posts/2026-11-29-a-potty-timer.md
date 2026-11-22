@@ -1,5 +1,5 @@
 ---
-date: 2026-11-29 10:00:00
+date: 2026-11-29 10:00:00 -0500
 title: "Fifteen minutes at a time"
 description: "A house, a yard and 15 minutes at a time: how Claude worked its way into every part of my life, and how a potty timer led to Daily Brief."
 image: /blog/images/2026-11-22-a-potty-timer.jpg
